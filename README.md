@@ -1,7 +1,10 @@
 BRIEFING
 
-Freqchip Bluetooth low energy SDK for FR801x SOC series (FR8012H/FR8016H/FR8018H). This SDK has been verified on Freqchip official EVM.
-富芮坤低功耗蓝牙软件开发包(BLE SDK)适用于该公司出品的FR801X系列低功耗蓝牙SOC芯片(FR8012H/FR8016H/FR8018H)。 该SDK适用于富芮坤公司出品的官方EVM。
+Freqchip Bluetooth low energy SDK for FR801x SOC series (FR8012H/FR8016H/FR8018H). 
+This SDK has been verified on Freqchip official EVM.
+
+富芮坤低功耗蓝牙软件开发包(BLE SDK)适用于该公司出品的FR801X系列低功耗蓝牙SOC芯片(FR8012H/FR8016H/FR8018H)。 
+该SDK适用于富芮坤公司出品的官方EVM。
 
 CONTENTS
 
