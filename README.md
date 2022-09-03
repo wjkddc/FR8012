@@ -20,6 +20,8 @@ Specific codes related to BLE stack and the relevant profiles.
 The tools for debugging and flashing.
 调试烧录相关的工具等
 
+
+
 BUILDING IMAGE
 
 KEIL V5.23 recommended
@@ -27,7 +29,8 @@ Open the relevant project file and build the target
 Easy to find the target image in the folder Output
 MORE
 
-Feel free to access the developer forum: http://www.freqchip.net .
+
+Feel free to access the developer forum: http://www.freqchip.net
 开发者论坛： http://www.freqchip.net
-WeChat Public Account: FREQCHIP .
+WeChat Public Account: FREQCHIP
 微信公众号：FREQCHIP。
