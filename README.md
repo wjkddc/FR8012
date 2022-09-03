@@ -27,7 +27,11 @@ Open the relevant project file and build the target
 Easy to find the target image in the folder Output
 MORE
 
-Feel free to access the developer forum: http://www.freqchip.net .
+
+Feel free to access the developer forum: http://www.freqchip.net
+
 开发者论坛： http://www.freqchip.net
-WeChat Public Account: FREQCHIP .
+
+WeChat Public Account: FREQCHIP
+
 微信公众号：FREQCHIP。
